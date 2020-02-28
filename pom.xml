@@ -6,6 +6,7 @@
 	<artifactId>easy-validation</artifactId>
 	<version>1.0</version>
 	<name>easy-validation</name>
+	<description>This support easily way for validation for object</description>
 	<url>http://github.com/aug04/easy-validation</url>
 
 	<licenses>
